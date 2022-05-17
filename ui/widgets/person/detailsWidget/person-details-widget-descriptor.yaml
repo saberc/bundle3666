@@ -1,0 +1,6 @@
+code: person-details-widget
+titles:
+  en: Person Details Widget
+  it: Person Details Widget
+group: free
+customUiPath: person-details-widget.ftl

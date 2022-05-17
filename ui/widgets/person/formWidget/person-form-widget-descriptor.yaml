@@ -1,0 +1,6 @@
+code: person-form-widget
+titles:
+  en: Person Form Widget
+  it: Person Form Widget
+group: free
+customUiPath: person-form-widget.ftl

@@ -1,0 +1,6 @@
+code: person-table-widget
+titles:
+  en: Person Table Widget
+  it: Person Table Widget
+group: free
+customUiPath: person-table-widget.ftl
